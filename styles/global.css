@@ -34,5 +34,8 @@ img {
 }
 
 button {
-  font: inherit;
+    font: inherit;
+    background: none;
+    border: none;
+    padding: 0;
 }
